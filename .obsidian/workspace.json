@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "be55df4e0f9a11a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5f6631e53185fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "526ed2b533cf9462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New/Template - Title.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bc4c5536063771e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fdd495c062c791b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b62f88b993d7aa6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e23a2d6fbceb1147",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c785c6243c78467c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15640363a29dae7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea78593425c8b893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4ef359171e1b8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New/Template - Title.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be38776ecdc3221b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "New/Template - Title.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c439b7c9e5d25059",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e876977f6ac2d9d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "New/Template - Title.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b62f88b993d7aa6",
+  "lastOpenFiles": [
+    "Attachments/Obsidian.png",
+    "Attachments/Obsidian.png.crdownload",
+    "New/test.md",
+    "New/Template - Title.md",
+    "New",
+    "Attachments",
+    "Trading",
+    "Books",
+    "Architecture",
+    "Programming",
+    "Welcome.md"
+  ]
+}
