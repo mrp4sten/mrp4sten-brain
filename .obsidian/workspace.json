@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5f6631e53185fc3",
+        "id": "75292a09821715fa",
         "type": "tabs",
         "children": [
           {
-            "id": "526ed2b533cf9462",
+            "id": "607557d08b0e3017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Template - Title.md",
+                "file": "Trading/Introduction/Categories.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Template - Title.md",
+                "file": "Trading/Introduction/Categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Template - Title.md",
+                "file": "Trading/Introduction/Categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Template - Title.md"
+                "file": "Trading/Introduction/Categories.md"
               }
             }
           }
@@ -146,18 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b62f88b993d7aa6",
+  "active": "607557d08b0e3017",
   "lastOpenFiles": [
+    "Trading/Introduction/Markets.md",
+    "Trading/Introduction/Trading.md",
+    "Trading/Introduction/Categories.md",
+    "Trading/Introduction/Tools.md",
+    "Attachments/Graphs.png",
+    "Attachments/Graphs.png.crdownload",
+    "New/Template - Title.md",
+    "Attachments/trading.jpeg",
+    "Attachments/trading.jpeg.crdownload",
+    "README.md",
+    "Trading/Introduction",
+    "Untitled",
+    "Trading",
+    "README.md~",
     "Attachments/Obsidian.png",
     "Attachments/Obsidian.png.crdownload",
     "New/test.md",
-    "New/Template - Title.md",
     "New",
     "Attachments",
     "Trading",
-    "Books",
-    "Architecture",
-    "Programming",
     "Welcome.md"
   ]
 }
