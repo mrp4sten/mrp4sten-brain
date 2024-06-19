@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "New",
   "attachmentFolderPath": "Attachments",
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
