@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/Technical Analysis/Candlesticks/Harami.md",
+                "file": "Trading/Technical Analysis/Supports & Resistance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/Technical Analysis/Candlesticks/Harami.md",
+                "file": "Trading/Technical Analysis/Supports & Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/Technical Analysis/Candlesticks/Harami.md",
+                "file": "Trading/Technical Analysis/Supports & Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/Technical Analysis/Candlesticks/Harami.md"
+                "file": "Trading/Technical Analysis/Supports & Resistance.md"
               }
             }
           }
@@ -146,52 +146,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "607557d08b0e3017",
+  "active": "3b62f88b993d7aa6",
   "lastOpenFiles": [
-    "Attachments/Harami-Candlestick-Pattern.png",
-    "Attachments/bullish-harami.png",
     "Trading/Technical Analysis/Candlesticks/Harami.md",
+    "Attachments/trading-img/39-Different-Types-of-Candlesticks-Patterns-Banner-1.jpg",
+    "Trading/Technical Analysis/Chartism.md",
+    "Trading/Technical Analysis/Candlesticks Chart.md",
+    "Trading/Technical Analysis/Trends.md",
+    "Trading/Technical Analysis/Pullbacks and Throwbacks.md",
+    "Trading/Technical Analysis/Supports & Resistance.md",
+    "Attachments/trading-img/BarChart.webp",
+    "Attachments/trading-img",
+    "Attachments/trading-img/Harami-Candlestick-Pattern.png",
+    "Attachments/bullish-harami.png",
     "Attachments/bullish-harami.png.crdownload",
     "Trading/Technical Analysis/Candlesticks/Candlesticks.md",
     "Trading/Technical Analysis/Candlesticks/Patterns/Doji Morning Star.md",
     "Trading/Technical Analysis/Candlesticks/Patterns/Three black crows.md",
-    "Attachments/three-black-crows.jpg",
+    "Attachments/trading-img/three-black-crows.jpg",
     "Attachments/three-black-crows.jpg.crdownload",
     "Trading/Technical Analysis/Candlesticks/Patterns/Three white soldiers.md",
     "Trading/Technical Analysis/Candlesticks/Patterns/Evening Star.md",
-    "Attachments/three-white-soldiers.avif",
+    "Attachments/trading-img/three-white-soldiers.avif",
     "Attachments/three-white-soldiers.avif.crdownload",
     "Trading/Technical Analysis/Candlesticks/Shooting Star.md",
     "Trading/Technical Analysis/Candlesticks/Hanging man.md",
     "Trading/Technical Analysis/Candlesticks/Hammer candlestick.md",
-    "Attachments/evening-star.png",
+    "Attachments/trading-img/evening-star.png",
     "Attachments/evening-star.png.crdownload",
-    "Attachments/doji-morning-star.png",
+    "Attachments/trading-img/doji-morning-star.png",
     "Attachments/doji-morning-star.png.crdownload",
     "Trading/Technical Analysis/Candlesticks/Patterns/Engulfing.md",
     "Trading/Technical Analysis/Candlesticks/Patterns/Tweezer.md",
-    "Attachments/tweezer.jpg",
+    "Attachments/trading-img/tweezer.jpg",
     "Attachments/tweezer.jpg.crdownload",
-    "Attachments/EngulfingCandle.png",
+    "Attachments/trading-img/EngulfingCandle.png",
     "Attachments/EngulfingCandle.png.crdownload",
     "Trading/Technical Analysis/Candlesticks/Marubozu.md",
     "Trading/Technical Analysis/Candlesticks/Patterns",
     "Trading/Technical Analysis/Candlesticks/High and Low Test.md",
     "Trading/Technical Analysis/Candlesticks/Doji.md",
-    "Attachments/low-test.png",
-    "Attachments/high-test.png",
-    "Attachments/marubozu.webp",
     "Attachments/marubozu.webp.crdownload",
-    "Attachments/Hammer_Candlestick_Patterns_2350d84bd9.png.crdownload",
-    "Trading/Technical Analysis/Trends.md",
-    "Trading/Technical Analysis/Chartism.md",
     "Trading/Technical Analysis/Level Strength.md",
-    "Trading/Technical Analysis/Pullbacks and Throwbacks.md",
     "Trading/Technical Analysis/Level Breaks.md",
     "Trading/Technical Analysis/Graphs.md",
     "Trading/Introduction/Markets.md",
-    "Trading/Technical Analysis/Supports & Resistance.md",
-    "Trading/Technical Analysis/Candlesticks Chart.md",
     "Trading/Introduction/Categories.md",
     "Trading/Introduction/Trading.md"
   ]
