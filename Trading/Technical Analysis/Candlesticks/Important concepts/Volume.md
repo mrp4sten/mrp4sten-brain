@@ -1,0 +1,3 @@
+- [[Trading]]
+- [[Candlesticks]]
+![[volume.png]]
