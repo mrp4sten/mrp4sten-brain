@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a79e199e2034fc4",
+        "id": "4b334a79cd811285",
         "type": "tabs",
         "children": [
           {
-            "id": "4bce95bcec2f29b2",
+            "id": "91761284ff7cf31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/2. OOPs/OOP.md",
+                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/2. OOPs/OOP.md",
+                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/2. OOPs/OOP.md",
+                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/2. OOPs/OOP.md"
+                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md"
               }
             }
           }
@@ -146,18 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bce95bcec2f29b2",
+  "active": "91761284ff7cf31e",
   "lastOpenFiles": [
+    "DesignPatterns&Principles/1. SOLID/Interface Segregation.md",
+    "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
+    "DesignPatterns&Principles/1. SOLID/SOLID.md",
+    "DesignPatterns&Principles/1. SOLID/Single Responsability.md",
+    "DesignPatterns&Principles/1. SOLID/Liskov Substitution.md",
+    "DesignPatterns&Principles/1. SOLID/Open - Closed.md",
+    "DesignPatterns&Principles/1. SOLID/Untitled",
+    "Open / Closed.md",
+    "Open ",
+    "DesignPatterns&Principles",
+    "Java/2. OOPs/OOP.md",
     "Java/2. OOPs/4. Interfaces and Abstract classes/Interface.md",
     "Java/2. OOPs/4. Interfaces and Abstract classes/Abstract classes.md",
-    "Java/2. OOPs/OOP.md",
     "Java/2. OOPs/2. Inheritance/Inheritance.md",
     "Java/2. OOPs/3. Polymorphism/Polymorphism.md",
     "Attachments/java-fundamentals-img/inheritance.png",
     "Attachments/java-fundamentals-img/inheritance.png.crdownload",
     "Trading/Technical Analysis/Graphs.md",
     "Java/2. OOPs/1. Classes and Objects/Classes and Objects.md",
-    "Java/3. SOLID",
+    "DesignPatterns&Principles/1. SOLID",
     "Java/2. OOPs/4. Interfaces and Abstract classes",
     "Java/2. OOPs/3. Polymorphism",
     "Java/2. OOPs/2. Inheritance",
@@ -170,29 +180,19 @@
     "Attachments/java-fundamentals-img/Data-Types.webp",
     "Java/1 Java Fundamentals/1. Basic Syntax/Quickstart.md",
     "Attachments/java-fundamentals-img/how-it-works?.jpg",
-    "Attachments/java-fundamentals-img/how-it-works?.jpg.crdownload",
-    "Attachments/java-fundamentals-img",
     "Java/1 Java Fundamentals/1. Basic Syntax/Java.md",
     "Trading/Introduction/Tools.md",
     "Java/1 Java Fundamentals/Untitled.md",
     "Trading/Introduction/Markets.md",
     "Trading/Introduction/Categories.md",
     "README.md",
-    "Java/2. OOPs",
     "New/Template - Title.md",
     "Trading/Technical Analysis/Indicators/Fibonacci Retracement.md",
     "Attachments/trading-img/Fibonacci retracement formula.png",
-    "Trading/Technical Analysis/Indicators/Bollinger bands.md",
     "Attachments/trading-img/Calculation of bollinger bands.png",
-    "Trading/Technical Analysis/Indicators/Moving average.md",
-    "Trading/Technical Analysis/Indicators/RSI.md",
-    "Trading/Technical Analysis/Indicators/MACD.md",
-    "Trading/Technical Analysis/Candlesticks/Candlesticks.md",
     "Attachments/trading-img/macd.gif",
-    "Trading/Technical Analysis/Indicators/Stochastic Oscillator.md",
     "Attachments/trading-img/Stochastic Oscillator solution example.png",
     "Attachments/trading-img/Stochastic Oscillator formule.png",
-    "Attachments/trading-img/rsi example calculation.png",
-    "Trading/Technical Analysis/Candlesticks/Important concepts/Types of order.md"
+    "Attachments/trading-img/rsi example calculation.png"
   ]
 }
