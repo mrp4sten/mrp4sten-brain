@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
+                "file": "Java/3. Collections/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
+                "file": "Java/3. Collections/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
+                "file": "Java/3. Collections/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md"
+                "file": "Java/3. Collections/Generics.md"
               }
             }
           }
@@ -148,8 +148,34 @@
   },
   "active": "91761284ff7cf31e",
   "lastOpenFiles": [
-    "DesignPatterns&Principles/1. SOLID/Interface Segregation.md",
+    "Attachments/java-collections/generics.png",
+    "Java/3. Collections/ArrayList.md",
+    "Java/3. Collections/Generics.md",
+    "Java/3. Collections/LinkedList.md",
+    "Java/3. Collections/TreeMap.md",
+    "Java/3. Collections/TreeSet.md",
+    "Attachments/java-collections/treeset.jpg",
+    "Attachments/java-collections/redblacktree.png",
+    "Attachments/java-collections/redblacktree.png.crdownload",
+    "Java/3. Collections/HashMap.md",
+    "Attachments/java-collections/java-hashmap-entry-impl.png",
+    "Attachments/java-collections/java-hashmap-entry-impl.png.crdownload",
+    "Java/3. Collections/HashSet.md",
+    "Attachments/java-collections/HowHashSetWorks.webp",
+    "Attachments/java-collections/ArrayList_Integer_Object.png",
+    "Attachments/java-collections/ArrayList_Integer_Object.png.crdownload",
+    "Attachments/java-collections",
+    "geeksforgeeks.org.md",
+    "().md",
+    "Java/2. OOPs/4. Interfaces and Abstract classes/Abstract classes.md",
+    "Java/3. Collections/Untitled",
+    "Java/3. Collections",
+    "Java/2. OOPs/4. Interfaces and Abstract classes/Interface.md",
     "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
+    "Java/2. OOPs/3. Polymorphism/Polymorphism.md",
+    "Java/2. OOPs/2. Inheritance/Inheritance.md",
+    "Java/1 Java Fundamentals/2. Data Types/Data Types Summary.md",
+    "DesignPatterns&Principles/1. SOLID/Interface Segregation.md",
     "DesignPatterns&Principles/1. SOLID/SOLID.md",
     "DesignPatterns&Principles/1. SOLID/Single Responsability.md",
     "DesignPatterns&Principles/1. SOLID/Liskov Substitution.md",
@@ -159,40 +185,14 @@
     "Open ",
     "DesignPatterns&Principles",
     "Java/2. OOPs/OOP.md",
-    "Java/2. OOPs/4. Interfaces and Abstract classes/Interface.md",
-    "Java/2. OOPs/4. Interfaces and Abstract classes/Abstract classes.md",
-    "Java/2. OOPs/2. Inheritance/Inheritance.md",
-    "Java/2. OOPs/3. Polymorphism/Polymorphism.md",
     "Attachments/java-fundamentals-img/inheritance.png",
     "Attachments/java-fundamentals-img/inheritance.png.crdownload",
     "Trading/Technical Analysis/Graphs.md",
     "Java/2. OOPs/1. Classes and Objects/Classes and Objects.md",
-    "DesignPatterns&Principles/1. SOLID",
-    "Java/2. OOPs/4. Interfaces and Abstract classes",
-    "Java/2. OOPs/3. Polymorphism",
-    "Java/2. OOPs/2. Inheritance",
-    "Java/2. OOPs/1. Classes and Objects",
     "Java/1 Java Fundamentals/3. Operators/Bitwise Operators.md",
-    "Java/1 Java Fundamentals/3. Operators/Operators summary.md",
-    "Java/1 Java Fundamentals/4. Classes and Objects",
-    "Java/1 Java Fundamentals/2. Data Types/Data Types Summary.md",
     "Attachments/java-fundamentals-img/java-operators.png",
     "Attachments/java-fundamentals-img/Data-Types.webp",
-    "Java/1 Java Fundamentals/1. Basic Syntax/Quickstart.md",
     "Attachments/java-fundamentals-img/how-it-works?.jpg",
-    "Java/1 Java Fundamentals/1. Basic Syntax/Java.md",
-    "Trading/Introduction/Tools.md",
-    "Java/1 Java Fundamentals/Untitled.md",
-    "Trading/Introduction/Markets.md",
-    "Trading/Introduction/Categories.md",
-    "README.md",
-    "New/Template - Title.md",
-    "Trading/Technical Analysis/Indicators/Fibonacci Retracement.md",
-    "Attachments/trading-img/Fibonacci retracement formula.png",
-    "Attachments/trading-img/Calculation of bollinger bands.png",
-    "Attachments/trading-img/macd.gif",
-    "Attachments/trading-img/Stochastic Oscillator solution example.png",
-    "Attachments/trading-img/Stochastic Oscillator formule.png",
-    "Attachments/trading-img/rsi example calculation.png"
+    "Attachments/trading-img/Fibonacci retracement formula.png"
   ]
 }
