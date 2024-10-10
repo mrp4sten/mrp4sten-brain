@@ -15,7 +15,9 @@ public interface BearKeeper {
 }
 
 // This is the GOAT!!
-public interface BearCleaner { void washTheBear(); } public interface BearFeeder { void feedTheBear(); } public interface BearPetter { void petTheBear(); }
+public interface BearCleaner { void washTheBear(); } 
+public interface BearFeeder { void feedTheBear(); } 
+public interface BearPetter { void petTheBear(); }
 
 // And after we are free to implement only the methods that matter to us
 public class BearCarer implements BearCleaner, BearFeeder {

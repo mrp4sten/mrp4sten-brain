@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8f9023fcf3a748",
+        "id": "9cf1867138af7e32",
         "type": "tabs",
         "children": [
           {
-            "id": "755c15f9335eb5c7",
+            "id": "15c295e6d74ba47e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4. Exceptions/Example Custom Exception.md",
+                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/4. Exceptions/Example Custom Exception.md",
+                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/4. Exceptions/Example Custom Exception.md",
+                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/4. Exceptions/Example Custom Exception.md"
+                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md"
               }
             }
           }
@@ -146,53 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "755c15f9335eb5c7",
+  "active": "15c295e6d74ba47e",
   "lastOpenFiles": [
-    "Java/4. Exceptions/ArrayIndexOutOfBoundException.md",
-    "Java/4. Exceptions/Example Custom Exception.md",
-    "Java/4. Exceptions/Try-catch-finally.md",
-    "Java/4. Exceptions/NullPointerException.md",
-    "Java/4. Exceptions/IOException.md",
-    "Java/4. Exceptions/Checked and unchecked exceptions.md",
-    "Java/3. Collections/ArrayList.md",
-    "Java/3. Collections/Generics.md",
-    "Java/4. Exceptions",
-    "Attachments/java-collections/generics.png",
-    "Java/3. Collections/LinkedList.md",
-    "Java/3. Collections/TreeMap.md",
-    "Java/3. Collections/TreeSet.md",
-    "Attachments/java-collections/treeset.jpg",
-    "Attachments/java-collections/redblacktree.png",
-    "Attachments/java-collections/redblacktree.png.crdownload",
-    "Java/3. Collections/HashMap.md",
-    "Attachments/java-collections/java-hashmap-entry-impl.png",
-    "Attachments/java-collections/java-hashmap-entry-impl.png.crdownload",
-    "Java/3. Collections/HashSet.md",
-    "Attachments/java-collections/HowHashSetWorks.webp",
-    "Attachments/java-collections/ArrayList_Integer_Object.png",
-    "Attachments/java-collections/ArrayList_Integer_Object.png.crdownload",
-    "Attachments/java-collections",
-    "geeksforgeeks.org.md",
-    "().md",
-    "Java/2. OOPs/4. Interfaces and Abstract classes/Abstract classes.md",
-    "Java/3. Collections/Untitled",
-    "Java/3. Collections",
-    "Java/2. OOPs/4. Interfaces and Abstract classes/Interface.md",
+    "Java/1 Java Fundamentals/6. Data Structures/Tree.md",
+    "Java/1 Java Fundamentals/6. Data Structures/Stack.md",
+    "Java/1 Java Fundamentals/6. Data Structures/Sorting.md",
+    "Java/1 Java Fundamentals/6. Data Structures/Searching.md",
+    "Java/1 Java Fundamentals/6. Data Structures/Queue.md",
+    "Java/1 Java Fundamentals/6. Data Structures/Graph.md",
+    "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
     "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
-    "Java/2. OOPs/3. Polymorphism/Polymorphism.md",
-    "Java/2. OOPs/2. Inheritance/Inheritance.md",
-    "Java/1 Java Fundamentals/2. Data Types/Data Types Summary.md",
-    "DesignPatterns&Principles/1. SOLID/Interface Segregation.md",
     "DesignPatterns&Principles/1. SOLID/SOLID.md",
-    "DesignPatterns&Principles/1. SOLID/Single Responsability.md",
+    "DesignPatterns&Principles/1. SOLID/Interface Segregation.md",
     "DesignPatterns&Principles/1. SOLID/Liskov Substitution.md",
     "DesignPatterns&Principles/1. SOLID/Open - Closed.md",
-    "DesignPatterns&Principles/1. SOLID/Untitled",
-    "Open ",
-    "DesignPatterns&Principles",
+    "DesignPatterns&Principles/1. SOLID/Single Responsability.md",
+    "Java/2. OOPs/9. Composition/Composition.md",
+    "Attachments/java-oop/Composition.png",
+    "Java/2. OOPs/8. Agreggation/Agregation.md",
+    "Attachments/java-oop/aggregation.JPG",
+    "Attachments/java-oop",
+    "Java/2. OOPs/7. Association/Association.md",
+    "Association.canvas",
+    "Java/2. OOPs/6. Encapsulation/Encapsulation.md",
+    "Java/2. OOPs/5. Abstraction/Abstraction.md",
+    "Java/2. OOPs/3. Polymorphism/Polymorphism.md",
+    "Java/2. OOPs/2. Inheritance/Inheritance.md",
+    "Java/2. OOPs/4. Interfaces and Abstract classes/Abstract classes.md",
+    "Java/2. OOPs/9. Composition",
+    "Java/2. OOPs/8. Agreggation",
+    "Java/2. OOPs/7. Association",
+    "Java/2. OOPs/6. Encapsulation",
+    "Java/2. OOPs/Untitled.md",
+    "Java/2. OOPs/5. Abstraction",
+    "Java/2. OOPs/1. Classes and Objects/Classes and Objects.md",
+    "Java/2. OOPs/4. Interfaces and Abstract classes/Interface.md",
+    "Java/1 Java Fundamentals/6. Data Structures/1. Data Structures.md",
+    "Java/1 Java Fundamentals/5. IO and APIs",
+    "Java/1 Java Fundamentals/4. Date Time",
+    "README.md",
+    "Java/1 Java Fundamentals/6. Data Structures",
+    "Untitled",
+    "Attachments/java-collections/generics.png",
+    "Attachments/java-collections/treeset.jpg",
+    "Attachments/java-collections/redblacktree.png",
+    "Attachments/java-collections/java-hashmap-entry-impl.png",
+    "Attachments/java-collections/HowHashSetWorks.webp",
+    "Attachments/java-collections/ArrayList_Integer_Object.png",
     "Attachments/java-fundamentals-img/inheritance.png",
-    "Attachments/java-fundamentals-img/java-operators.png",
-    "Attachments/java-fundamentals-img/Data-Types.webp",
-    "Attachments/java-fundamentals-img/how-it-works?.jpg"
+    "Attachments/java-fundamentals-img/java-operators.png"
   ]
 }

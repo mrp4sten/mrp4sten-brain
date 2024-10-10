@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7ff1f1787fdfcad1","x":-136,"y":-41,"width":250,"height":60,"type":"text","text":"Person "},
+		{"id":"9000619e59421b96","x":220,"y":-140,"width":250,"height":60,"type":"text","text":"Mobile 1"},
+		{"id":"81971d06569bc3f7","type":"text","text":"Mobile 2","x":220,"y":-41,"width":250,"height":60},
+		{"id":"faa73ea3fd53b1f5","type":"text","text":"Mobile 3","x":220,"y":60,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a372c3de3f8f3187","fromNode":"7ff1f1787fdfcad1","fromSide":"right","toNode":"9000619e59421b96","toSide":"left"},
+		{"id":"b509202f5c6349e0","fromNode":"7ff1f1787fdfcad1","fromSide":"right","toNode":"81971d06569bc3f7","toSide":"left"},
+		{"id":"ad2b03c2aab6e83f","fromNode":"7ff1f1787fdfcad1","fromSide":"right","toNode":"faa73ea3fd53b1f5","toSide":"left"}
+	]
+}
