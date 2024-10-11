@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
+                "file": "Java/1 Java Fundamentals/6. Data Structures/5 Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
+                "file": "Java/1 Java Fundamentals/6. Data Structures/5 Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
+                "file": "Java/1 Java Fundamentals/6. Data Structures/5 Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md"
+                "file": "Java/1 Java Fundamentals/6. Data Structures/5 Queue.md"
               }
             }
           }
@@ -148,13 +148,23 @@
   },
   "active": "15c295e6d74ba47e",
   "lastOpenFiles": [
+    "Attachments/java-oop/queue.png",
+    "Java/1 Java Fundamentals/6. Data Structures/4. Stack.md",
+    "Attachments/java-oop/ds-stack.png",
+    "Java/1 Java Fundamentals/6. Data Structures/Graph.md",
+    "Java/1 Java Fundamentals/6. Data Structures/5 Queue.md",
+    "Java/1 Java Fundamentals/6. Data Structures/3. Linked List.md",
+    "Java/1 Java Fundamentals/6. Data Structures/2. Array.md",
+    "Attachments/java-oop/ds-2d-array.png",
+    "Attachments/java-oop/circular-doubly-linked-list.png",
+    "Attachments/java-oop/circular-singly-linked-list.png",
+    "Attachments/java-oop/doubly-linked-list.png",
+    "Attachments/java-oop/linked-list.png",
+    "Attachments/java-oop/array_memory_allocation.png",
     "Java/1 Java Fundamentals/6. Data Structures/Tree.md",
     "Java/1 Java Fundamentals/6. Data Structures/Stack.md",
     "Java/1 Java Fundamentals/6. Data Structures/Sorting.md",
     "Java/1 Java Fundamentals/6. Data Structures/Searching.md",
-    "Java/1 Java Fundamentals/6. Data Structures/Queue.md",
-    "Java/1 Java Fundamentals/6. Data Structures/Graph.md",
-    "Java/1 Java Fundamentals/6. Data Structures/2. Linked List.md",
     "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
     "DesignPatterns&Principles/1. SOLID/SOLID.md",
     "DesignPatterns&Principles/1. SOLID/Interface Segregation.md",
@@ -180,20 +190,10 @@
     "Java/2. OOPs/Untitled.md",
     "Java/2. OOPs/5. Abstraction",
     "Java/2. OOPs/1. Classes and Objects/Classes and Objects.md",
-    "Java/2. OOPs/4. Interfaces and Abstract classes/Interface.md",
-    "Java/1 Java Fundamentals/6. Data Structures/1. Data Structures.md",
     "Java/1 Java Fundamentals/5. IO and APIs",
     "Java/1 Java Fundamentals/4. Date Time",
-    "README.md",
     "Java/1 Java Fundamentals/6. Data Structures",
     "Untitled",
-    "Attachments/java-collections/generics.png",
-    "Attachments/java-collections/treeset.jpg",
-    "Attachments/java-collections/redblacktree.png",
-    "Attachments/java-collections/java-hashmap-entry-impl.png",
-    "Attachments/java-collections/HowHashSetWorks.webp",
-    "Attachments/java-collections/ArrayList_Integer_Object.png",
-    "Attachments/java-fundamentals-img/inheritance.png",
-    "Attachments/java-fundamentals-img/java-operators.png"
+    "Attachments/java-collections/generics.png"
   ]
 }
