@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9cf1867138af7e32",
+        "id": "d9c772a40ec48cbb",
         "type": "tabs",
         "children": [
           {
-            "id": "15c295e6d74ba47e",
+            "id": "b1fba4cfb63b6781",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/5. Getting Deeper/6. Basic Threads.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/5. Getting Deeper/6. Basic Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/5. Getting Deeper/6. Basic Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/5. Getting Deeper/6. Basic Threads.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,53 +138,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15c295e6d74ba47e",
+  "active": "3b62f88b993d7aa6",
   "lastOpenFiles": [
-    "Java/5. Getting Deeper/5. Networking and Sockets.md",
-    "Java/5. Getting Deeper/4. Garbage collection.md",
-    "Attachments/java-getting-deeper/Java-Garbage-Collection.png",
-    "Java/5. Getting Deeper/3. How JVM works?.md",
-    "Java/5. Getting Deeper/1. Memory management.md",
-    "Attachments/java-getting-deeper/jvm.jpg",
-    "Java/5. Getting Deeper/2. Serialization.md",
-    "Attachments/java-getting-deeper/java-serialization.png",
-    "Java/5. Getting Deeper/6. Basic Threads.md",
-    "Attachments/java-getting-deeper/memory-management-in-java.png",
-    "Attachments/java-getting-deeper",
+    "Map.md",
+    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/1. Data Structures.md",
+    "Programming.md",
+    "Software Engingeering/DesignPatterns&Principles/1. SOLID/5. Dependency Inversion.md",
+    "Attachments/img",
+    "Software Engingeering",
+    "Software Engingeering/DesignPatterns&Principles/1. SOLID/4. Interface Segregation.md",
+    "Software Engingeering/DesignPatterns&Principles/1. SOLID/3.Liskov Substitution.md",
+    "Software Engingeering/DesignPatterns&Principles/1. SOLID/2. Open - Closed.md",
+    "Software Engingeering/DesignPatterns&Principles/1. SOLID/SOLID.md",
+    "Software Engingeering/DesignPatterns&Principles/1. SOLID/1. Single Responsability.md",
+    "Attachments/canvas/Java/Association.canvas",
+    "Attachments/img/java",
+    "Attachments/canvas/Java",
+    "Attachments/canvas",
+    "README.md",
+    "[Programming.md",
+    "Software Engingeering/Java/5. Getting Deeper/6. Basic Threads.md",
+    "Software Engingeering/Java/5. Getting Deeper/5. Networking and Sockets.md",
+    "Software Engingeering/Java/5. Getting Deeper/4. Garbage collection.md",
+    "Attachments/img/java/java-getting-deeper/Java-Garbage-Collection.png",
+    "Software Engingeering/Java/5. Getting Deeper/3. How JVM works?.md",
+    "Software Engingeering/Java/5. Getting Deeper/1. Memory management.md",
+    "Attachments/img/java/java-getting-deeper/jvm.jpg",
+    "Software Engingeering/Java/5. Getting Deeper/2. Serialization.md",
+    "Attachments/img/java/java-getting-deeper/java-serialization.png",
+    "Attachments/img/java/java-getting-deeper/memory-management-in-java.png",
+    "Attachments/img/java/java-getting-deeper",
     "Java/5. Getting Deeper/2. Collection Framework.md",
-    "Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
-    "Java/5. Getting Deeper",
-    "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
-    "Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
-    "Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
+    "Software Engingeering/Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
+    "Software Engingeering/Java/5. Getting Deeper",
+    "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
+    "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
+    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
     "Java/1 Java Fundamentals/6. Data Structures/Stack.md",
-    "Java/1 Java Fundamentals/6. Data Structures/8. Searching.md",
-    "Attachments/java-oop/binary-search-1.gif",
-    "Attachments/java-oop/linear_search.gif",
-    "Java/1 Java Fundamentals/6. Data Structures/7. Graph.md",
-    "Attachments/java-oop/directed-graph.png",
-    "Attachments/java-oop/undirected-graph.png",
-    "Java/1 Java Fundamentals/6. Data Structures/6. Tree.md",
-    "Attachments/java-oop/Binary_search_tree_example.gif",
-    "Attachments/java-oop/types-of-tree2.png",
-    "Java/1 Java Fundamentals/6. Data Structures/5 Queue.md",
-    "Java/1 Java Fundamentals/6. Data Structures/4. Stack.md",
-    "Java/1 Java Fundamentals/6. Data Structures/3. Linked List.md",
-    "Java/1 Java Fundamentals/6. Data Structures/2. Array.md",
-    "DesignPatterns&Principles/1. SOLID/Dependency Inversion.md",
-    "DesignPatterns&Principles/1. SOLID/SOLID.md",
-    "DesignPatterns&Principles/1. SOLID/Interface Segregation.md",
-    "DesignPatterns&Principles/1. SOLID/Liskov Substitution.md",
-    "DesignPatterns&Principles/1. SOLID/Open - Closed.md",
-    "DesignPatterns&Principles/1. SOLID/Single Responsability.md",
-    "Attachments/java-oop",
-    "Association.canvas",
-    "Java/2. OOPs/9. Composition",
-    "Java/2. OOPs/8. Agreggation",
-    "Java/2. OOPs/7. Association",
-    "Java/2. OOPs/6. Encapsulation",
-    "Java/2. OOPs/5. Abstraction",
-    "Java/1 Java Fundamentals/5. IO and APIs",
-    "Java/1 Java Fundamentals/4. Date Time"
+    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/8. Searching.md",
+    "Attachments/img/java/java-oop/binary-search-1.gif",
+    "Attachments/img/java/java-oop/linear_search.gif",
+    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/7. Graph.md",
+    "Attachments/img/java/java-oop/directed-graph.png",
+    "Attachments/img/java/java-oop/undirected-graph.png",
+    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/6. Tree.md",
+    "Attachments/img/java/java-oop/Binary_search_tree_example.gif",
+    "Attachments/img/java/java-oop/types-of-tree2.png",
+    "Attachments/img/java/java-oop",
+    "Software Engingeering/Java/2. OOPs/9. Composition",
+    "Software Engingeering/Java/2. OOPs/8. Agreggation"
   ]
 }
