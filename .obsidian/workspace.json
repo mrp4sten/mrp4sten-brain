@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
+                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
+                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
+                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md"
+                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "15c295e6d74ba47e",
   "lastOpenFiles": [
-    "Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
+    "Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
+    "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
     "Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
+    "Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
     "Java/1 Java Fundamentals/6. Data Structures/Stack.md",
     "Java/1 Java Fundamentals/6. Data Structures/8. Searching.md",
     "Attachments/java-oop/binary-search-1.gif",
@@ -188,9 +190,7 @@
     "Java/2. OOPs/8. Agreggation",
     "Java/2. OOPs/7. Association",
     "Java/2. OOPs/6. Encapsulation",
-    "Java/2. OOPs/Untitled.md",
     "Java/2. OOPs/5. Abstraction",
-    "Java/2. OOPs/1. Classes and Objects/Classes and Objects.md",
     "Java/1 Java Fundamentals/5. IO and APIs",
     "Java/1 Java Fundamentals/4. Date Time",
     "Java/1 Java Fundamentals/6. Data Structures",
