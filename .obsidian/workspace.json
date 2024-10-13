@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
+                "file": "Java/5. Getting Deeper/6. Basic Threads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
+                "file": "Java/5. Getting Deeper/6. Basic Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
+                "file": "Java/5. Getting Deeper/6. Basic Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1 Java Fundamentals/5. IO and APIs/2. API.md"
+                "file": "Java/5. Getting Deeper/6. Basic Threads.md"
               }
             }
           }
@@ -148,9 +148,22 @@
   },
   "active": "15c295e6d74ba47e",
   "lastOpenFiles": [
-    "Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
-    "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
+    "Java/5. Getting Deeper/5. Networking and Sockets.md",
+    "Java/5. Getting Deeper/4. Garbage collection.md",
+    "Attachments/java-getting-deeper/Java-Garbage-Collection.png",
+    "Java/5. Getting Deeper/3. How JVM works?.md",
+    "Java/5. Getting Deeper/1. Memory management.md",
+    "Attachments/java-getting-deeper/jvm.jpg",
+    "Java/5. Getting Deeper/2. Serialization.md",
+    "Attachments/java-getting-deeper/java-serialization.png",
+    "Java/5. Getting Deeper/6. Basic Threads.md",
+    "Attachments/java-getting-deeper/memory-management-in-java.png",
+    "Attachments/java-getting-deeper",
+    "Java/5. Getting Deeper/2. Collection Framework.md",
     "Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
+    "Java/5. Getting Deeper",
+    "Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
+    "Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
     "Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
     "Java/1 Java Fundamentals/6. Data Structures/Stack.md",
     "Java/1 Java Fundamentals/6. Data Structures/8. Searching.md",
@@ -162,11 +175,7 @@
     "Java/1 Java Fundamentals/6. Data Structures/6. Tree.md",
     "Attachments/java-oop/Binary_search_tree_example.gif",
     "Attachments/java-oop/types-of-tree2.png",
-    "Attachments/java-oop/types-of-tree1.png",
-    "Attachments/java-oop/tree2.png",
-    "Attachments/java-oop/tree.png",
     "Java/1 Java Fundamentals/6. Data Structures/5 Queue.md",
-    "Attachments/java-oop/queue.png",
     "Java/1 Java Fundamentals/6. Data Structures/4. Stack.md",
     "Java/1 Java Fundamentals/6. Data Structures/3. Linked List.md",
     "Java/1 Java Fundamentals/6. Data Structures/2. Array.md",
@@ -176,24 +185,14 @@
     "DesignPatterns&Principles/1. SOLID/Liskov Substitution.md",
     "DesignPatterns&Principles/1. SOLID/Open - Closed.md",
     "DesignPatterns&Principles/1. SOLID/Single Responsability.md",
-    "Java/2. OOPs/9. Composition/Composition.md",
-    "Java/2. OOPs/8. Agreggation/Agregation.md",
     "Attachments/java-oop",
-    "Java/2. OOPs/7. Association/Association.md",
     "Association.canvas",
-    "Java/2. OOPs/6. Encapsulation/Encapsulation.md",
-    "Java/2. OOPs/5. Abstraction/Abstraction.md",
-    "Java/2. OOPs/3. Polymorphism/Polymorphism.md",
-    "Java/2. OOPs/2. Inheritance/Inheritance.md",
-    "Java/2. OOPs/4. Interfaces and Abstract classes/Abstract classes.md",
     "Java/2. OOPs/9. Composition",
     "Java/2. OOPs/8. Agreggation",
     "Java/2. OOPs/7. Association",
     "Java/2. OOPs/6. Encapsulation",
     "Java/2. OOPs/5. Abstraction",
     "Java/1 Java Fundamentals/5. IO and APIs",
-    "Java/1 Java Fundamentals/4. Date Time",
-    "Java/1 Java Fundamentals/6. Data Structures",
-    "Untitled"
+    "Java/1 Java Fundamentals/4. Date Time"
   ]
 }
