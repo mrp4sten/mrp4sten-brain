@@ -11,8 +11,12 @@
             "id": "b1fba4cfb63b6781",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md"
+              }
             }
           }
         ]
@@ -138,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b62f88b993d7aa6",
+  "active": "b1fba4cfb63b6781",
   "lastOpenFiles": [
+    "Attachments/img/java/java-getting-deeper/java-memory-model.png",
+    "Attachments/img/java/java-getting-deeper/concurrency-models-3.png",
+    "Attachments/img/java/java-getting-deeper/concurrency-models-1.png",
+    "Attachments/img/java/java-getting-deeper/concurrency-models-0-2.png",
+    "Attachments/img/java/java-getting-deeper/concurrency-models-0-1.png",
+    "Attachments/img/java/java-getting-deeper/muli-threading-cpus.png",
+    "Attachments/img/java/java-getting-deeper/multit-threading.png",
+    "Software Engingeering/Java/5. Getting Deeper/6. Basic Threads.md",
+    "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md",
     "Map.md",
     "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/1. Data Structures.md",
     "Programming.md",
@@ -157,7 +174,6 @@
     "Attachments/canvas",
     "README.md",
     "[Programming.md",
-    "Software Engingeering/Java/5. Getting Deeper/6. Basic Threads.md",
     "Software Engingeering/Java/5. Getting Deeper/5. Networking and Sockets.md",
     "Software Engingeering/Java/5. Getting Deeper/4. Garbage collection.md",
     "Attachments/img/java/java-getting-deeper/Java-Garbage-Collection.png",
@@ -176,14 +192,6 @@
     "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
     "Java/1 Java Fundamentals/6. Data Structures/Stack.md",
     "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/8. Searching.md",
-    "Attachments/img/java/java-oop/binary-search-1.gif",
-    "Attachments/img/java/java-oop/linear_search.gif",
-    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/7. Graph.md",
-    "Attachments/img/java/java-oop/directed-graph.png",
-    "Attachments/img/java/java-oop/undirected-graph.png",
-    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/6. Tree.md",
-    "Attachments/img/java/java-oop/Binary_search_tree_example.gif",
-    "Attachments/img/java/java-oop/types-of-tree2.png",
     "Attachments/img/java/java-oop",
     "Software Engingeering/Java/2. OOPs/9. Composition",
     "Software Engingeering/Java/2. OOPs/8. Agreggation"
