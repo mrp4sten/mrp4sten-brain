@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
+                "file": "Software Engingeering/Java/6. Build/Build tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
+                "file": "Software Engingeering/Java/6. Build/Build tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
+                "file": "Software Engingeering/Java/6. Build/Build tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md"
+                "file": "Software Engingeering/Java/6. Build/Build tools.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "b1fba4cfb63b6781",
   "lastOpenFiles": [
+    "Attachments/img/java/java-build-tools/gradle-advantages.png",
+    "Attachments/img/java/java-build-tools/gradle-features.png",
+    "Attachments/img/java/java-build-tools",
+    "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
+    "Software Engingeering/Java/6. Build/Build tools.md",
+    "Software Engingeering/Java/6. Build",
     "Attachments/img/java/java-getting-deeper/socket-connect.gif",
     "Attachments/img/java/java-getting-deeper/socket.gif",
     "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md",
-    "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
     "Attachments/img/java/java-getting-deeper/java-memory-model.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-3.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-1.png",
@@ -179,10 +184,8 @@
     "[Programming.md",
     "Software Engingeering/Java/5. Getting Deeper/5. Networking and Sockets.md",
     "Software Engingeering/Java/5. Getting Deeper/4. Garbage collection.md",
-    "Attachments/img/java/java-getting-deeper/Java-Garbage-Collection.png",
     "Software Engingeering/Java/5. Getting Deeper/3. How JVM works?.md",
     "Software Engingeering/Java/5. Getting Deeper/1. Memory management.md",
-    "Attachments/img/java/java-getting-deeper/jvm.jpg",
     "Software Engingeering/Java/5. Getting Deeper/2. Serialization.md",
     "Attachments/img/java/java-getting-deeper",
     "Java/5. Getting Deeper/2. Collection Framework.md",
@@ -191,9 +194,6 @@
     "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
     "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
     "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
-    "Java/1 Java Fundamentals/6. Data Structures/Stack.md",
-    "Attachments/img/java/java-oop",
-    "Software Engingeering/Java/2. OOPs/9. Composition",
-    "Software Engingeering/Java/2. OOPs/8. Agreggation"
+    "Attachments/img/java/java-oop"
   ]
 }
