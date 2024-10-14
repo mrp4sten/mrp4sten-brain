@@ -148,8 +148,13 @@
   },
   "active": "b1fba4cfb63b6781",
   "lastOpenFiles": [
-    "Software Engingeering/Java/6. Build/Build tools.md",
+    "Software Engingeering/Java/7. Web Frameworks/4. Testing.md",
     "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
+    "Software Engingeering/Java/7. Web Frameworks/3. JDBC.md",
+    "Software Engingeering/Java/7. Web Frameworks/2. Logging.md",
+    "Software Engingeering/Java/7. Web Frameworks/1. ORM(Object-Relational Mapping).md",
+    "Software Engingeering/Spring Boot",
+    "Software Engingeering/Java/6. Build/Build tools.md",
     "Software Engingeering/Java/7. Web Frameworks",
     "Attachments/img/java/java-build-tools/gradle-advantages.png",
     "Attachments/img/java/java-build-tools/gradle-features.png",
@@ -189,11 +194,6 @@
     "Software Engingeering/Java/5. Getting Deeper/1. Memory management.md",
     "Software Engingeering/Java/5. Getting Deeper/2. Serialization.md",
     "Attachments/img/java/java-getting-deeper",
-    "Java/5. Getting Deeper/2. Collection Framework.md",
-    "Software Engingeering/Java/1 Java Fundamentals/4. Date Time/Date Time Summary.md",
-    "Software Engingeering/Java/5. Getting Deeper",
-    "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
-    "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
-    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md"
+    "Java/5. Getting Deeper/2. Collection Framework.md"
   ]
 }
