@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Java/6. Build/Build tools.md",
+                "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engingeering/Java/6. Build/Build tools.md",
+                "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engingeering/Java/6. Build/Build tools.md",
+                "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engingeering/Java/6. Build/Build tools.md"
+                "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "b1fba4cfb63b6781",
   "lastOpenFiles": [
+    "Software Engingeering/Java/6. Build/Build tools.md",
+    "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
+    "Software Engingeering/Java/7. Web Frameworks",
     "Attachments/img/java/java-build-tools/gradle-advantages.png",
     "Attachments/img/java/java-build-tools/gradle-features.png",
     "Attachments/img/java/java-build-tools",
     "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
-    "Software Engingeering/Java/6. Build/Build tools.md",
     "Software Engingeering/Java/6. Build",
     "Attachments/img/java/java-getting-deeper/socket-connect.gif",
     "Attachments/img/java/java-getting-deeper/socket.gif",
@@ -163,7 +165,6 @@
     "Attachments/img/java/java-getting-deeper/concurrency-models-0-2.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-0-1.png",
     "Attachments/img/java/java-getting-deeper/muli-threading-cpus.png",
-    "Attachments/img/java/java-getting-deeper/multit-threading.png",
     "Software Engingeering/Java/5. Getting Deeper/6. Basic Threads.md",
     "Map.md",
     "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/1. Data Structures.md",
@@ -193,7 +194,6 @@
     "Software Engingeering/Java/5. Getting Deeper",
     "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/2. API.md",
     "Software Engingeering/Java/1 Java Fundamentals/5. IO and APIs/1. IO.md",
-    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md",
-    "Attachments/img/java/java-oop"
+    "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/9. Sorting.md"
   ]
 }
