@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/6 Eureka.md",
+                "file": "Software Engingeering/Spring Boot/6. Spring MVC/4 Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 Eureka"
+              "title": "4 Components"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "networking",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,15 +162,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4bd5dd4d348e8a0",
+  "active": "3b62f88b993d7aa6",
   "lastOpenFiles": [
+    "Software Engingeering/Spring Boot/6. Spring MVC/1 Servlet.md",
+    "Software Engingeering/Spring Boot/6. Spring MVC/4 Components.md",
+    "Software Engingeering/Spring Boot/6. Spring MVC/3 Architecture.md",
+    "Software Engingeering/Spring Boot/6. Spring MVC/2 JSP Files.md",
+    "Software Engingeering/Spring Boot/1. Spring Core/3 IOC.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/6 Eureka.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/5 Sleuth.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/4 Spring Cloud Open Feign.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/3 Spring Cloud Circuit Breaker.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/2 Cloud config.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/1 Cloud Cateway.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/0 Introduction.md",
-    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/6 Eureka.md",
     "Software Engingeering/Spring Boot/5. Microservices/Intro.md",
     "Software Engingeering/Spring Boot/4. Spring Data/3 JDBC.md",
     "Software Engingeering/Spring Boot/4. Spring Data/2 MongoDB.md",
@@ -189,11 +194,6 @@
     "Attachments/img/spring-boot/JWT-Workflow.webp",
     "Software Engingeering/Spring Boot/2. Spring Security/3 OAuth2.md",
     "Software Engingeering/Spring Boot/2. Spring Security/2 Authorization.md",
-    "Software Engingeering/Spring Boot/2. Spring Security/1 Authentication.md",
-    "Software Engingeering/Spring Boot/1. Spring Core/1 Configuration.md",
-    "Software Engingeering/Spring Boot/1. Spring Core/0 Spring Boot.md",
-    "Software Engingeering/Spring Boot/1. Spring Core/7 Bean Scope.md",
-    "Software Engingeering/Spring Boot/1. Spring Core/6 Annotations.md",
     "Attachments/img/spring-boot/spring-web-model-view-controller.png",
     "Attachments/img/spring-boot",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud",
