@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Spring Boot/4. Spring Data/3 JDBC.md",
+                "file": "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/6 Eureka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 JDBC"
+              "title": "6 Eureka"
             }
           }
         ]
@@ -164,10 +164,18 @@
   },
   "active": "f4bd5dd4d348e8a0",
   "lastOpenFiles": [
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/5 Sleuth.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/4 Spring Cloud Open Feign.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/3 Spring Cloud Circuit Breaker.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/2 Cloud config.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/1 Cloud Cateway.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/0 Introduction.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/6 Eureka.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Intro.md",
+    "Software Engingeering/Spring Boot/4. Spring Data/3 JDBC.md",
     "Software Engingeering/Spring Boot/4. Spring Data/2 MongoDB.md",
     "Software Engingeering/Spring Boot/4. Spring Data/1 JPA.md",
     "Attachments/img/spring-boot/spring_data_overview_small.webp",
-    "Software Engingeering/Spring Boot/4. Spring Data/3 JDBC.md",
     "Software Engingeering/Spring Boot/3. Hibernate/3 Entity Life cycle.md",
     "Attachments/img/spring-boot/hibernate-lifecycle.png",
     "Software Engingeering/Spring Boot/3. Hibernate/2 Relationships.md",
@@ -186,15 +194,8 @@
     "Software Engingeering/Spring Boot/1. Spring Core/0 Spring Boot.md",
     "Software Engingeering/Spring Boot/1. Spring Core/7 Bean Scope.md",
     "Software Engingeering/Spring Boot/1. Spring Core/6 Annotations.md",
-    "Software Engingeering/Spring Boot/1. Spring Core/5 MVC.md",
     "Attachments/img/spring-boot/spring-web-model-view-controller.png",
     "Attachments/img/spring-boot",
-    "Software Engingeering/Spring Boot/1. Spring Core/4 AOP.md",
-    "Software Engingeering/Spring Boot/1. Spring Core/3 IOC.md",
-    "Software Engingeering/Spring Boot/1. Spring Core/2 Dependency Injection.md",
-    "Software Engingeering/Java/7. Web Frameworks/1. ORM(Object-Relational Mapping).md",
-    "Software Engingeering/Spring Boot/6. Spring MVC/4 Components.md",
-    "Software Engingeering/Spring Boot/7. Testing/4 @MockBean  Annotation.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud",
     "Software Engingeering/Spring Boot/2.1 Spring Util Features",
     "Software Engingeering/Spring Boot/2. Spring Security/Untitled",
