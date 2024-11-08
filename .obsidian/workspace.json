@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Spring Boot/3. Hibernate/3 Entity Life cycle.md",
+                "file": "Software Engingeering/Spring Boot/4. Spring Data/3 JDBC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Entity Life cycle"
+              "title": "3 JDBC"
             }
           }
         ]
@@ -164,7 +164,10 @@
   },
   "active": "f4bd5dd4d348e8a0",
   "lastOpenFiles": [
+    "Software Engingeering/Spring Boot/4. Spring Data/2 MongoDB.md",
     "Software Engingeering/Spring Boot/4. Spring Data/1 JPA.md",
+    "Attachments/img/spring-boot/spring_data_overview_small.webp",
+    "Software Engingeering/Spring Boot/4. Spring Data/3 JDBC.md",
     "Software Engingeering/Spring Boot/3. Hibernate/3 Entity Life cycle.md",
     "Attachments/img/spring-boot/hibernate-lifecycle.png",
     "Software Engingeering/Spring Boot/3. Hibernate/2 Relationships.md",
@@ -192,9 +195,6 @@
     "Software Engingeering/Java/7. Web Frameworks/1. ORM(Object-Relational Mapping).md",
     "Software Engingeering/Spring Boot/6. Spring MVC/4 Components.md",
     "Software Engingeering/Spring Boot/7. Testing/4 @MockBean  Annotation.md",
-    "Software Engingeering/Spring Boot/7. Testing/3 @SpringBootTest Annotation.md",
-    "Software Engingeering/Spring Boot/7. Testing/2 MockMVC.md",
-    "Software Engingeering/Spring Boot/7. Testing/1 JPA Test.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud",
     "Software Engingeering/Spring Boot/2.1 Spring Util Features",
     "Software Engingeering/Spring Boot/2. Spring Security/Untitled",
@@ -209,7 +209,6 @@
     "Attachments/img/java/java-getting-deeper/socket-connect.gif",
     "Attachments/img/java/java-getting-deeper/socket.gif",
     "Attachments/img/java/java-getting-deeper/java-memory-model.png",
-    "Attachments/img/java/java-getting-deeper/concurrency-models-3.png",
     "Attachments/canvas/Java/Association.canvas"
   ]
 }
