@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c772a40ec48cbb",
+        "id": "dcc4a381b254ca9c",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fba4cfb63b6781",
+            "id": "8e8c32532cd11658",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,9 @@
                 "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Web Framewokrs"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
+                "file": "Software Engingeering/Java/7. Web Frameworks/3. JDBC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3. JDBC"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
+                "file": "Software Engingeering/Java/7. Web Frameworks/3. JDBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. JDBC"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md"
-              }
+                "file": "Software Engingeering/Java/7. Web Frameworks/3. JDBC.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. JDBC"
             }
           }
         ]
@@ -146,31 +162,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1fba4cfb63b6781",
+  "active": "8e8c32532cd11658",
   "lastOpenFiles": [
     "Software Engingeering/Java/7. Web Frameworks/4. Testing.md",
-    "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
+    "Software Engingeering/Java/5. Getting Deeper/5. Networking and Sockets.md",
+    "Software Engingeering/Java/1 Java Fundamentals/3. Operators/Operators summary.md",
+    "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
+    "Software Engingeering/Java/5. Getting Deeper/6. Basic Threads.md",
+    "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md",
     "Software Engingeering/Java/7. Web Frameworks/3. JDBC.md",
-    "Software Engingeering/Java/7. Web Frameworks/2. Logging.md",
+    "Software Engingeering/Java/7. Web Frameworks/Web Framewokrs.md",
     "Software Engingeering/Java/7. Web Frameworks/1. ORM(Object-Relational Mapping).md",
+    "Software Engingeering/Java/7. Web Frameworks/2. Logging.md",
     "Software Engingeering/Spring Boot",
     "Software Engingeering/Java/6. Build/Build tools.md",
     "Software Engingeering/Java/7. Web Frameworks",
     "Attachments/img/java/java-build-tools/gradle-advantages.png",
     "Attachments/img/java/java-build-tools/gradle-features.png",
     "Attachments/img/java/java-build-tools",
-    "Software Engingeering/Java/5. Getting Deeper/8. Sockets.md",
     "Software Engingeering/Java/6. Build",
     "Attachments/img/java/java-getting-deeper/socket-connect.gif",
     "Attachments/img/java/java-getting-deeper/socket.gif",
-    "Software Engingeering/Java/5. Getting Deeper/7. Concurrency and Multithreading.md",
     "Attachments/img/java/java-getting-deeper/java-memory-model.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-3.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-1.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-0-2.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-0-1.png",
     "Attachments/img/java/java-getting-deeper/muli-threading-cpus.png",
-    "Software Engingeering/Java/5. Getting Deeper/6. Basic Threads.md",
     "Map.md",
     "Software Engingeering/Java/1 Java Fundamentals/6. Data Structures/1. Data Structures.md",
     "Programming.md",
@@ -188,12 +206,10 @@
     "Attachments/canvas",
     "README.md",
     "[Programming.md",
-    "Software Engingeering/Java/5. Getting Deeper/5. Networking and Sockets.md",
     "Software Engingeering/Java/5. Getting Deeper/4. Garbage collection.md",
     "Software Engingeering/Java/5. Getting Deeper/3. How JVM works?.md",
     "Software Engingeering/Java/5. Getting Deeper/1. Memory management.md",
     "Software Engingeering/Java/5. Getting Deeper/2. Serialization.md",
-    "Attachments/img/java/java-getting-deeper",
-    "Java/5. Getting Deeper/2. Collection Framework.md"
+    "Attachments/img/java/java-getting-deeper"
   ]
 }
