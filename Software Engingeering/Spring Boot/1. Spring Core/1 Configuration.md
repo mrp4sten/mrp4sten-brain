@@ -1,6 +1,6 @@
 Tags: 
 - [[Java]]
-- [[0 Spring Boot]]}
+- [[0 Spring Boot]]
 ### 1. **Application Properties and YAML**
 
 - **Properties File**: `application.properties` or `application.yml` is where configuration settings are typically defined. You can set various application properties here, such as database settings, server ports, and logging levels.
