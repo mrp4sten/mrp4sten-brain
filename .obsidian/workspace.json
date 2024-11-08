@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Spring Boot/2. Spring Security/4 JWT.md",
+                "file": "Software Engingeering/Spring Boot/3. Hibernate/3 Entity Life cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 JWT"
+              "title": "3 Entity Life cycle"
             }
           }
         ]
@@ -164,10 +164,20 @@
   },
   "active": "f4bd5dd4d348e8a0",
   "lastOpenFiles": [
+    "Software Engingeering/Spring Boot/4. Spring Data/1 JPA.md",
+    "Software Engingeering/Spring Boot/3. Hibernate/3 Entity Life cycle.md",
+    "Attachments/img/spring-boot/hibernate-lifecycle.png",
+    "Software Engingeering/Spring Boot/3. Hibernate/2 Relationships.md",
+    "Software Engingeering/Spring Boot/3. Hibernate/1 Transactions.md",
+    "Attachments/img/spring-boot/transaction.jpg",
+    "Software Engingeering/Spring Boot/2.1 Spring Util Features/1 Starters.md",
+    "Software Engingeering/Spring Boot/2.1 Spring Util Features/4 Embedded Server.md",
+    "Software Engingeering/Spring Boot/2.1 Spring Util Features/3 Actuators.md",
+    "Software Engingeering/Spring Boot/2.1 Spring Util Features/2 Autoconfiguratuion.md",
+    "Software Engingeering/Spring Boot/2. Spring Security/4 JWT.md",
     "Attachments/img/spring-boot/JWT-Workflow.webp",
     "Software Engingeering/Spring Boot/2. Spring Security/3 OAuth2.md",
     "Software Engingeering/Spring Boot/2. Spring Security/2 Authorization.md",
-    "Software Engingeering/Spring Boot/2. Spring Security/4 JWT.md",
     "Software Engingeering/Spring Boot/2. Spring Security/1 Authentication.md",
     "Software Engingeering/Spring Boot/1. Spring Core/1 Configuration.md",
     "Software Engingeering/Spring Boot/1. Spring Core/0 Spring Boot.md",
@@ -185,13 +195,6 @@
     "Software Engingeering/Spring Boot/7. Testing/3 @SpringBootTest Annotation.md",
     "Software Engingeering/Spring Boot/7. Testing/2 MockMVC.md",
     "Software Engingeering/Spring Boot/7. Testing/1 JPA Test.md",
-    "Software Engingeering/Spring Boot/6. Spring MVC/3 Architecture.md",
-    "Software Engingeering/Spring Boot/6. Spring MVC/2 JSP Files.md",
-    "Software Engingeering/Spring Boot/6. Spring MVC/1 Servlet.md",
-    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/6 Eureka.md",
-    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/5 Sleuth.md",
-    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/4 Spring Cloud Open Feign.md",
-    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/3 Spring Cloud Circuit Breaker.md",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud",
     "Software Engingeering/Spring Boot/2.1 Spring Util Features",
     "Software Engingeering/Spring Boot/2. Spring Security/Untitled",
@@ -207,9 +210,6 @@
     "Attachments/img/java/java-getting-deeper/socket.gif",
     "Attachments/img/java/java-getting-deeper/java-memory-model.png",
     "Attachments/img/java/java-getting-deeper/concurrency-models-3.png",
-    "Attachments/img/java/java-getting-deeper/concurrency-models-1.png",
-    "Attachments/img/java/java-getting-deeper/concurrency-models-0-2.png",
-    "Attachments/img/java/java-getting-deeper/concurrency-models-0-1.png",
     "Attachments/canvas/Java/Association.canvas"
   ]
 }
