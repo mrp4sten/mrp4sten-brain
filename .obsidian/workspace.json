@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Spring Boot/6. Spring MVC/4 Components.md",
+                "file": "Software Engingeering/Spring Boot/7. Testing/4 @MockBean  Annotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Components"
+              "title": "4 @MockBean  Annotation"
             }
           }
         ]
@@ -162,10 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b62f88b993d7aa6",
+  "active": "f4bd5dd4d348e8a0",
   "lastOpenFiles": [
-    "Software Engingeering/Spring Boot/6. Spring MVC/1 Servlet.md",
+    "Software Engingeering/Spring Boot/7. Testing/3 @SpringBootTest Annotation.md",
+    "Software Engingeering/Spring Boot/7. Testing/2 MockMVC.md",
+    "Software Engingeering/Spring Boot/7. Testing/4 @MockBean  Annotation.md",
+    "Software Engingeering/Spring Boot/7. Testing/1 JPA Test.md",
     "Software Engingeering/Spring Boot/6. Spring MVC/4 Components.md",
+    "Software Engingeering/Spring Boot/6. Spring MVC/1 Servlet.md",
     "Software Engingeering/Spring Boot/6. Spring MVC/3 Architecture.md",
     "Software Engingeering/Spring Boot/6. Spring MVC/2 JSP Files.md",
     "Software Engingeering/Spring Boot/1. Spring Core/3 IOC.md",
@@ -189,11 +193,7 @@
     "Software Engingeering/Spring Boot/2.1 Spring Util Features/1 Starters.md",
     "Software Engingeering/Spring Boot/2.1 Spring Util Features/4 Embedded Server.md",
     "Software Engingeering/Spring Boot/2.1 Spring Util Features/3 Actuators.md",
-    "Software Engingeering/Spring Boot/2.1 Spring Util Features/2 Autoconfiguratuion.md",
-    "Software Engingeering/Spring Boot/2. Spring Security/4 JWT.md",
     "Attachments/img/spring-boot/JWT-Workflow.webp",
-    "Software Engingeering/Spring Boot/2. Spring Security/3 OAuth2.md",
-    "Software Engingeering/Spring Boot/2. Spring Security/2 Authorization.md",
     "Attachments/img/spring-boot/spring-web-model-view-controller.png",
     "Attachments/img/spring-boot",
     "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud",
