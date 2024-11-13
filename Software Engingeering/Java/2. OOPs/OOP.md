@@ -1,7 +1,5 @@
 Tags: 
 - [[Java]]
-- [[Programming]]
-- [[Programming Paradigm]]
 
 OOP stands for **Object-Oriented Programming**.
 
