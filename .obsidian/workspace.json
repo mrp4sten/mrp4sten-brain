@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7c1cdd9bbf77208",
+            "id": "7b2ed87690498ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/PostgreSQL/3. Security/9. SELinux.md",
+                "file": "Software Engingeering/PostgreSQL/4. Infrastructure Skills/9. Monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. SELinux"
+              "title": "9. Monitoring"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.500732421875
+    "width": 301.500732421875
   },
   "right": {
     "id": "15640363a29dae7a",
@@ -162,16 +162,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7c1cdd9bbf77208",
+  "active": "7b2ed87690498ae6",
   "lastOpenFiles": [
-    "Software Engingeering/PostgreSQL/3. Security/7. Row Level Security (RLS).md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/8. Connection pooling.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/9. Monitoring.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/7. Replication.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/6. Backup and recovery tools.md",
+    "Untitled.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/5. Load balancing - Discovery.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/4. Kubernetes Deployment.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/3. Cluster Management.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/2. Upgrade Procedures.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/Untitled",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/1. Anonymization.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills/PostgreSQL Infrastructure Skills.md",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/6 Eureka.md",
+    "Software Engingeering/PostgreSQL/3. Security/1. Object Privileges.md",
+    "Software Engingeering/PostgreSQL/4. Infrastructure Skills",
+    "Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/5 Sleuth.md",
     "Software Engingeering/PostgreSQL/3. Security/9. SELinux.md",
+    "Software Engingeering/PostgreSQL/3. Security/7. Row Level Security (RLS).md",
     "Software Engingeering/PostgreSQL/3. Security/6. SSL Settings.md",
     "Software Engingeering/PostgreSQL/3. Security/5. pg_hba.conf.md",
     "Software Engingeering/PostgreSQL/3. Security/4. Roles.md",
     "Software Engingeering/PostgreSQL/3. Security/3. Authentication Models.md",
     "Software Engingeering/PostgreSQL/3. Security/2. Grant and Revoke.md",
-    "Software Engingeering/PostgreSQL/3. Security/1. Object Privileges.md",
     "Attachments/img/postgresql/Object Privileges.png",
     "Attachments/img/postgresql",
     "Software Engingeering/PostgreSQL/3. Security/PostgreSQL Security.md",
@@ -180,27 +195,12 @@
     "Software Engingeering/PostgreSQL/3. Security",
     "Software Engingeering/PostgreSQL/2. Configuring/7. Query Planner.md",
     "Software Engingeering/PostgreSQL/2. Configuring/6. Replication.md",
-    "Software Engingeering/PostgreSQL/2. Configuring/5. Vaccums.md",
-    "Software Engingeering/PostgreSQL/2. Configuring/4. Write-ahead log.md",
-    "Software Engingeering/PostgreSQL/2. Configuring/3. Resource usage.md",
-    "Software Engingeering/PostgreSQL/2. Configuring/2. Adding extra extensions.md",
-    "Software Engingeering/PostgreSQL/1. SQL on Postgresql/3. Lateral Join.md",
-    "Software Engingeering/PostgreSQL/1. SQL on Postgresql/4. Set operations.md",
-    "Software Engingeering/PostgreSQL/1. SQL on Postgresql/2. Importing and Exporting using Copy.md",
-    "Software Engingeering/PostgreSQL/1. SQL on Postgresql/1. For Schemas.md",
-    "Software Engingeering/PostgreSQL/0. Basics/5. Installation and Setup.md",
-    "Software Engingeering/PostgreSQL/0. Basics/4. Relational Model.md",
-    "Software Engingeering/PostgreSQL/0. Basics/3. High Level DB Concepts.md",
-    "Software Engingeering/PostgreSQL/0. Basics/2. Schemas.md",
-    "Software Engingeering/PostgreSQL/0. Basics/1. Object Model.md",
     "Software Engingeering/PostgreSQL/2. Configuring",
     "Software Engingeering/PostgreSQL/1. SQL on Postgresql",
     "Software Engingeering/PostgreSQL/0. Basics",
     "Software Engingeering/PostgreSQL",
     "Software Engingeering/SQL/15. Advanced SQL/5. Window Functions",
     "Software Engingeering/SQL/8. Advanced Functions/Untitled",
-    "Software Engingeering/SQL/8. Advanced Functions/3. Conditional",
-    "Software Engingeering/SQL/8. Advanced Functions/2. Numeric",
     "Attachments/img/spring-boot/spring_data_overview_small.webp",
     "Attachments/img/spring-boot/hibernate-lifecycle.png",
     "Attachments/img/spring-boot/transaction.jpg",
