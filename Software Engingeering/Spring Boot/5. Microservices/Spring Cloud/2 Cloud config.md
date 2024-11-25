@@ -1,7 +1,7 @@
 Tags: 
 - [[Java]]
 - [[0 Spring Boot]]
-- [[0 Introduction]]
+- [[Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/0 Introduction]]
 # Cloud Config
 
 Spring Cloud Config is a library for managing configuration properties for distributed applications. It allows developers to externalize configuration properties for an application, so that they can be easily changed without modifying the application’s code. It also provides a centralized server for storing and managing configuration properties for multiple applications, making it easy to update and rollback configurations across different environments.

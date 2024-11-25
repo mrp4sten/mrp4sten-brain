@@ -1,7 +1,7 @@
 Tags: 
 - [[Java]]
 - [[0 Spring Boot]]
-- [[0 Introduction]]
+- [[Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/0 Introduction]]
 # Sleuth
 
 Spring Cloud Sleuth is a library for distributed tracing in Spring-based applications. Distributed tracing is a technique that allows developers to track the flow of a request as it travels through a microservices-based application, in order to understand how the different components of the system are interacting and to identify and troubleshoot performance bottlenecks.

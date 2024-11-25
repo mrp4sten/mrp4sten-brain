@@ -1,7 +1,7 @@
 Tags: 
 - [[Java]]
 - [[0 Spring Boot]]
-- [[0 Introduction]]
+- [[Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/0 Introduction]]
 # Eureka
 
 Spring Cloud Eureka is a library for service discovery in a microservices-based architecture. Service discovery is a technique that allows services to find and communicate with each other, without having to hardcode their addresses.

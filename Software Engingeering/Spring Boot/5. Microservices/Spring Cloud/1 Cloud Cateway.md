@@ -1,7 +1,7 @@
 Tags: 
 - [[Java]]
 - [[0 Spring Boot]]
-- [[0 Introduction]]
+- [[Software Engingeering/Spring Boot/5. Microservices/Spring Cloud/0 Introduction]]
 
 # Spring Cloud Gateway
 

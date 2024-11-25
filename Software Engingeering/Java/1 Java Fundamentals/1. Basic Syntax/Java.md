@@ -1,8 +1,5 @@
 Tags:
-- Programming
-- Coding
-- Software
-- Engineering
+- [[Software Engineering]]
 
 Java is a programming language and computing platform first released by Sun Microsystems in 1995
 

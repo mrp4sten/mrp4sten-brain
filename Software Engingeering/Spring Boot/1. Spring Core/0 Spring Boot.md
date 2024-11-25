@@ -1,5 +1,6 @@
 Tags: 
 - [[Java]]
+- - [[Software Engineering]]
 
 Spring Boot is a framework for building applications based on the Spring Framework, a widely-used, open-source framework for building Java-based enterprise applications. Spring Boot aims to make it easy to create stand-alone, production-grade Spring-based applications that you can “just run”.
 # Terminology
