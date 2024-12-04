@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5eef2b73f8d466de",
+        "id": "e7a821cf557d88ca",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Software design and architecture/4. Architectural Principles.md",
+                "file": "Software Engingeering/Software design and architecture/5. Architectural Styles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Architectural Principles"
+              "title": "5. Architectural Styles"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dependency injection",
+                "query": "Monolithic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,9 +165,25 @@
   },
   "active": "967c6a58d2a68b3d",
   "lastOpenFiles": [
-    "Software Engingeering/Software design and architecture/3. Design principles.md",
+    "Attachments/img/design-patterns-principles/cbd.png",
+    "Attachments/img/design-patterns-principles/layered.webp",
+    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/1. Monolithic Apps.md",
+    "Software Engingeering/Software design and architecture/5. Architectural Styles.md",
+    "Attachments/img/design-patterns-principles/cbd.webp",
+    "Attachments/img/design-patterns-principles/p2p.png",
+    "Attachments/img/design-patterns-principles/client-server.png",
+    "Attachments/img/design-patterns-principles/EDA-OG.jpg",
+    "Attachments/img/design-patterns-principles/observer.png",
+    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/Architectural Patterns.md",
+    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/6. Twelve Factor Apps.md",
+    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/5. Service Mesh.md",
+    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/4. Serverless.md",
+    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/3. SOA.md",
+    "Software Engingeering/DesignPatterns&Principles/3. GOF/GoF Design Patterns.md",
+    "Design Patterns.md",
     "Software Engingeering/Software design and architecture/4. Architectural Principles.md",
     "Software Engingeering/Software design and architecture/Untitled",
+    "Software Engingeering/Software design and architecture/3. Design principles.md",
     "Software Engingeering/Software design and architecture/1. Clean code principles.md",
     "Software Engingeering/Software design and architecture/2. Programming Paradigms.md",
     "Software Engingeering/Spring Boot/1. Spring Core/3 IOC.md",
@@ -189,27 +206,11 @@
     "Software Engingeering/Real-Time Data/2. WebSockets.md",
     "Attachments/img/real-time-data/websocket.webp",
     "Software Engingeering/DesignPatterns&Principles/4. DDD/1. Concept and principles.md",
-    "Software Engingeering/DesignPatterns&Principles/3. GOF/GoF Design Patterns.md",
     "Software Engingeering/DesignPatterns&Principles/5. TDD/Test Driven Development.md",
     "Software Engingeering/DesignPatterns&Principles/6. CQRS/Command Query Responsability Segregation.md",
     "Software Engingeering/DesignPatterns&Principles/7. Event sourcing/Event Sourcing.md",
-    "Software Engingeering/Real-Time Data/1. Server Sent Events.md",
-    "Attachments/img/real-time-data/sse-communication.png",
     "Attachments/img/real-time-data",
-    "Software Engingeering/Real-Time Data/Real time data.md",
     "Software Engingeering/Real-Time Data",
-    "Attachments/img/design-patterns-principles/Event-Sourcing.webp",
-    "Attachments/img/design-patterns-principles/cqrs.png",
-    "Attachments/img/design-patterns-principles/TDD.webp",
-    "Attachments/img/architectural-patterns/TDD.webp",
-    "Software Engingeering/DesignPatterns&Principles/4. DDD/4. DDD and other software development approaches.md",
-    "Software Engingeering/DesignPatterns&Principles/4. DDD/3. Implemantation of DDD.md",
-    "Software Engingeering/DesignPatterns&Principles/4. DDD/2. Building blocks of DDD.md",
-    "Software Engingeering/DesignPatterns&Principles/4. DDD/Domain-Driven design.md",
-    "Software Engingeering/DesignPatterns&Principles/1. SOLID/SOLID.md",
-    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/6. Twelve Factor Apps.md",
-    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/5. Service Mesh.md",
-    "Attachments/img/architectural-patterns/overview-service-mesh.png",
     "Attachments/canvas/Java/Association.canvas"
   ]
 }
