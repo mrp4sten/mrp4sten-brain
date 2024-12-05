@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Software design and architecture/5. Architectural Styles.md",
+                "file": "Software Engingeering/Software design and architecture/6.  Architectural Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Architectural Styles"
+              "title": "6.  Architectural Patterns"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,10 +164,15 @@
   },
   "active": "967c6a58d2a68b3d",
   "lastOpenFiles": [
+    "Software Engingeering/DesignPatterns&Principles/7. Event sourcing/Event Sourcing.md",
+    "Software Engingeering/Software design and architecture/6.  Architectural Patterns.md",
+    "Attachments/img/design-patterns-principles/queues-vs-streams-vs-pubsub.png",
+    "Attachments/img/design-patterns-principles/microkernel.png",
+    "Attachments/img/design-patterns-principles/Blackboard-Architecture---1.png",
+    "Software Engingeering/Software design and architecture/5. Architectural Styles.md",
     "Attachments/img/design-patterns-principles/cbd.png",
     "Attachments/img/design-patterns-principles/layered.webp",
     "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/1. Monolithic Apps.md",
-    "Software Engingeering/Software design and architecture/5. Architectural Styles.md",
     "Attachments/img/design-patterns-principles/cbd.webp",
     "Attachments/img/design-patterns-principles/p2p.png",
     "Attachments/img/design-patterns-principles/client-server.png",
@@ -193,22 +197,17 @@
     "Software Engingeering/Building for scale/3. Difference and usage.md",
     "Software Engingeering/Building for scale/1. Mitigation Strategies.md",
     "Software Engingeering/Building for scale/4. Types of scaling.md",
-    "Attachments/img/building-for-scale/Horizontal-vs-Vertical-Scaling.png",
     "Attachments/img/building-for-scale",
     "Software Engingeering/Real-Time Data/4. Short Pooling.md",
     "Software Engingeering/Building for scale/Untitled",
     "Software Engingeering/Building for scale/Mitigation Strategies",
     "Software Engingeering/Building for scale/Difference and usage",
     "Software Engingeering/Building for scale",
-    "Attachments/img/real-time-data/short-pooling.png",
     "Software Engingeering/Real-Time Data/3. Long Polling.md",
-    "Attachments/img/real-time-data/long-polling.svg",
     "Software Engingeering/Real-Time Data/2. WebSockets.md",
-    "Attachments/img/real-time-data/websocket.webp",
     "Software Engingeering/DesignPatterns&Principles/4. DDD/1. Concept and principles.md",
     "Software Engingeering/DesignPatterns&Principles/5. TDD/Test Driven Development.md",
     "Software Engingeering/DesignPatterns&Principles/6. CQRS/Command Query Responsability Segregation.md",
-    "Software Engingeering/DesignPatterns&Principles/7. Event sourcing/Event Sourcing.md",
     "Attachments/img/real-time-data",
     "Software Engingeering/Real-Time Data",
     "Attachments/canvas/Java/Association.canvas"
