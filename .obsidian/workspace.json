@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Docker/2. Basics of Docker.md",
+                "file": "Software Engingeering/Docker/9. Deploying containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Basics of Docker"
+              "title": "9. Deploying containers"
             }
           }
         ]
@@ -164,8 +164,17 @@
   },
   "active": "967c6a58d2a68b3d",
   "lastOpenFiles": [
-    "Software Engingeering/Docker/1. Introduction.md",
+    "Software Engingeering/Docker/8. Container security.md",
+    "Software Engingeering/Docker/9. Deploying containers.md",
+    "Software Engingeering/Docker/7. Running containers.md",
+    "Software Engingeering/Docker/6. Container registries.md",
     "Software Engingeering/Docker/2. Basics of Docker.md",
+    "Software Engingeering/Docker/3. Data Persistence.md",
+    "Software Engingeering/Docker/4. 3rd party container images.md",
+    "Software Engingeering/Docker/5. Building container images.md",
+    "Attachments/img/docker/types-of-mounts-volume.webp",
+    "Attachments/img/docker",
+    "Software Engingeering/Docker/1. Docker.md",
     "Software Engingeering/Software design and architecture/1. Clean code principles.md",
     "Software Engingeering/Docker",
     "Software Engingeering/Software design and architecture/7. Enterprise Patterns.md",
@@ -181,7 +190,6 @@
     "Attachments/img/design-patterns-principles/Blackboard-Architecture---1.png",
     "Software Engingeering/Software design and architecture/5. Architectural Styles.md",
     "Attachments/img/design-patterns-principles/cbd.png",
-    "Attachments/img/design-patterns-principles/layered.webp",
     "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/1. Monolithic Apps.md",
     "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/Architectural Patterns.md",
     "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/6. Twelve Factor Apps.md",
@@ -197,19 +205,11 @@
     "Software Engingeering/Spring Boot/1. Spring Core/3 IOC.md",
     "Software Engingeering/Software design and architecture/Clean code principles",
     "Software Engingeering/Software design and architecture",
-    "Software Engingeering/Building for scale/2. Observavility.md",
-    "Software Engingeering/Building for scale/3. Difference and usage.md",
-    "Software Engingeering/Building for scale/1. Mitigation Strategies.md",
-    "Software Engingeering/Building for scale/4. Types of scaling.md",
     "Attachments/img/building-for-scale",
-    "Software Engingeering/Real-Time Data/4. Short Pooling.md",
     "Software Engingeering/Building for scale/Untitled",
     "Software Engingeering/Building for scale/Mitigation Strategies",
     "Software Engingeering/Building for scale/Difference and usage",
     "Software Engingeering/Building for scale",
-    "Software Engingeering/Real-Time Data/3. Long Polling.md",
-    "Software Engingeering/Real-Time Data/2. WebSockets.md",
-    "Attachments/img/real-time-data",
     "Attachments/canvas/Java/Association.canvas"
   ]
 }
