@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engingeering/Kubernetes/9. Autoscaling.md",
+                "file": "Software Engingeering/Kubernetes/13. Advanced topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Autoscaling"
+              "title": "13. Advanced topics"
             }
           }
         ]
@@ -164,8 +164,13 @@
   },
   "active": "967c6a58d2a68b3d",
   "lastOpenFiles": [
-    "Software Engingeering/Kubernetes/8. Monitoring and logging.md",
+    "Software Engingeering/Kubernetes/12. Deployment patterns.md",
+    "Software Engingeering/Kubernetes/13. Advanced topics.md",
+    "Attachments/img/kubernetes/GitOps.png",
+    "Software Engingeering/Kubernetes/11. Storage and volumes.md",
+    "Software Engingeering/Kubernetes/10. Scheduling.md",
     "Software Engingeering/Kubernetes/9. Autoscaling.md",
+    "Software Engingeering/Kubernetes/8. Monitoring and logging.md",
     "Software Engingeering/Kubernetes/7. Security.md",
     "Software Engingeering/Kubernetes/6. Resource management.md",
     "Software Engingeering/Kubernetes/5. Configuration management.md",
@@ -199,11 +204,6 @@
     "Software Engingeering/DesignPatterns&Principles/7. Event sourcing/Event Sourcing.md",
     "Attachments/img/design-patterns-principles/queues-vs-streams-vs-pubsub.png",
     "Attachments/img/design-patterns-principles/microkernel.png",
-    "Attachments/img/design-patterns-principles/Blackboard-Architecture---1.png",
-    "Software Engingeering/Software design and architecture/5. Architectural Styles.md",
-    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/1. Monolithic Apps.md",
-    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/Architectural Patterns.md",
-    "Software Engingeering/DesignPatterns&Principles/2. Architectural Patterns/6. Twelve Factor Apps.md",
     "Software Engingeering/Software design and architecture/Untitled",
     "Software Engingeering/Software design and architecture/Clean code principles",
     "Software Engingeering/Software design and architecture",
